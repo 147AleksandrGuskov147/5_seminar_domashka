@@ -1,0 +1,15 @@
+C:\Users\Александр\Desktop\прога марога\C#\семинары\5_semi_domashka\task_34\obj\Debug\net7.0\task_34.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\прога марога\C#\семинары\5_semi_domashka\task_34\obj\Debug\net7.0\task_34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\прога марога\C#\семинары\5_semi_domashka\task_34\obj\Debug\net7.0\task_34.AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\прога марога\C#\семинары\5_semi_domashka\task_34\obj\Debug\net7.0\task_34.AssemblyInfo.cs
+C:\Users\Александр\Desktop\прога марога\C#\семинары\5_semi_domashka\task_34\obj\Debug\net7.0\task_34.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\прога марога\C#\семинары\5_semi_domashka\task_34\bin\Debug\net7.0\task_34.exe
+C:\Users\Александр\Desktop\прога марога\C#\семинары\5_semi_domashka\task_34\bin\Debug\net7.0\task_34.deps.json
+C:\Users\Александр\Desktop\прога марога\C#\семинары\5_semi_domashka\task_34\bin\Debug\net7.0\task_34.runtimeconfig.json
+C:\Users\Александр\Desktop\прога марога\C#\семинары\5_semi_domashka\task_34\bin\Debug\net7.0\task_34.dll
+C:\Users\Александр\Desktop\прога марога\C#\семинары\5_semi_domashka\task_34\bin\Debug\net7.0\task_34.pdb
+C:\Users\Александр\Desktop\прога марога\C#\семинары\5_semi_domashka\task_34\obj\Debug\net7.0\task_34.dll
+C:\Users\Александр\Desktop\прога марога\C#\семинары\5_semi_domashka\task_34\obj\Debug\net7.0\refint\task_34.dll
+C:\Users\Александр\Desktop\прога марога\C#\семинары\5_semi_domashka\task_34\obj\Debug\net7.0\task_34.pdb
+C:\Users\Александр\Desktop\прога марога\C#\семинары\5_semi_domashka\task_34\obj\Debug\net7.0\task_34.genruntimeconfig.cache
+C:\Users\Александр\Desktop\прога марога\C#\семинары\5_semi_domashka\task_34\obj\Debug\net7.0\ref\task_34.dll
